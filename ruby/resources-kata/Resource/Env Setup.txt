@@ -1,0 +1,4 @@
+>>Ruby Version Manager
+>>Atom Editor
+	**atom-runner (package)
+	**platformio-ide-terminal (terminal package)
