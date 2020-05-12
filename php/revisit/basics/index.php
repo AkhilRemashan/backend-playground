@@ -7,25 +7,16 @@
 </head>
 <body>
     
-        <?php 
-            
-            $name = "Akhil Site";
-            
+        <form action="index.php" method="get">
 
-            // String Functions
+            <input type="submit">
 
-            // echo strtolower($name);
-            // echo strtoupper($name);
+        </form>
 
-            // echo strlen($name);
-            // echo $name[0];
-            // echo $name[2] = "i";
+        <?php
 
-            // echo str_replace("Akhil","Akil",$name);
-            echo substr($name, 6);
-
-
-        ?>
+        ?> 
+        
 
 
 </body>
