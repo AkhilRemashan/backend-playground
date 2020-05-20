@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-        <form action="index.php" method="get">
+<form action="index.php" method="get">
             
                 Color: <input type="text" name="color" id="">
                 <br>
@@ -30,8 +21,3 @@
             echo "I love $celebrity"
 
         ?> 
-        
-
-
-</body>
-</html>
