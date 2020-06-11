@@ -6,7 +6,7 @@ function get_setup(){
     wp_enqueue_style('google-fonte', get_stylesheet_uri('//fonts.googleapis.com/css?family=Roboto|Roboto+Condensed|Roboto+Slab'));
     wp_enqueue_style('fontawesome', get_stylesheet_uri('//use.fontawesome.com/releases/v5.1.0/css/all.css'));
     wp_enqueue_style('style', get_stylesheet_uri(), NULL, microtime());
-    wp_enqueue_script("main", get_theme_file_uri('/js/main.js'), NULL, microtime(), true);
+    // wp_enqueue_script("main", get_theme_file_uri('/js/main.js'), NULL, microtime(), true);
 }
 
 
