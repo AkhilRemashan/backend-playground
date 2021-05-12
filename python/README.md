@@ -1,1 +1,0 @@
-# Essentials backend technologies
