@@ -1,2 +1,2 @@
 # backend-playground
-Backend codes and snippets Ruby, Rails and PHP
+Backend codes and snippets in PHP
